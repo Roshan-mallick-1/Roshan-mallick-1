@@ -32,3 +32,7 @@ Reach out me
 <a   href="mailto:roshanmallick110@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" width="85">
 </a>
+
+<a   href="mailto:roshanmallick2005@proton.me" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/ProtonMail_logo.svg" height="35" width="85">
+</a>
